@@ -2,8 +2,10 @@
 
 Agile software development process that encourages collaboration among developers, QA and non-technical or business participants in a software project. (Wiki)
 
-[Course udemy BDD Testing With Python](
-https://infobip.udemy.com/course/bdd-testing-with-python/learn/lecture/4412802#overview)
+[Cucumber BDD with Python 3 Behave and Selenium WebDriver
+](
+https://www.udemy.com/course/bdd-testing-with-python/)
+
 
 Tools:
 
