@@ -1,9 +1,9 @@
 # BDD Behaviour-driven development
 
-## [Introduciton](intro.md) 
+## [Introduction](intro.md) 
 What is behave and how to setup dev. env.
 
-## [Pass parameters to steps]()
+## [Pass parameters to steps](pass_params.md)
 Make scenarios more flexible by passing parameters from features to steps 
 
   
