@@ -1,15 +1,15 @@
 
-gpython:S1192¸"NDefine a constant instead of duplicating this literal "examples.name" 4 times.(¦ÿ  
-epython:S1192»"GDefine a constant instead of duplicating this literal "row.id" 3 times.(ç€’Ëıÿÿÿÿ
-cpython:S1192º"JDefine a constant instead of duplicating this literal "row.index" 3 times.(’Ğñİ
-gpython:S1192¹"ODefine a constant instead of duplicating this literal "examples.index" 3 times.(ÿÅ
-hpython:S107u"LMethod "__init__" has 10 parameters, which is greater than the 7 authorized.(á»ˆ¯ıÿÿÿÿ
-rpython:S3776–"TRefactor this function to reduce its Cognitive Complexity from 43 to the 15 allowed.(„ğıÒøÿÿÿÿ
-<python:S125—"Remove this commented out code.(¤å½£ûÿÿÿÿ
-cpython:S107é"KMethod "__init__" has 8 parameters, which is greater than the 7 authorized.(ëÆÒ²
-rpython:S3776˜"TRefactor this function to reduce its Cognitive Complexity from 60 to the 15 allowed.(„ğıÒøÿÿÿÿ
-hpython:S107â"KMethod "__init__" has 9 parameters, which is greater than the 7 authorized.(á»ˆ¯ıÿÿÿÿ
-hpython:S107Ú	"KMethod "__init__" has 8 parameters, which is greater than the 7 authorized.(½š±‰ùÿÿÿÿ
 rpython:S3776†
 "TRefactor this function to reduce its Cognitive Complexity from 43 to the 15 allowed.(ğ‡Õ®ÿÿÿÿÿ
+rpython:S3776˜"TRefactor this function to reduce its Cognitive Complexity from 60 to the 15 allowed.(„ğıÒøÿÿÿÿ
+cpython:S1192º"JDefine a constant instead of duplicating this literal "row.index" 3 times.(’Ğñİ
+cpython:S107é"KMethod "__init__" has 8 parameters, which is greater than the 7 authorized.(ëÆÒ²
+hpython:S107Ú	"KMethod "__init__" has 8 parameters, which is greater than the 7 authorized.(½š±‰ùÿÿÿÿ
 7python:S125Ÿ"Remove this commented out code.(Á„ûÎ
+gpython:S1192¸"NDefine a constant instead of duplicating this literal "examples.name" 4 times.(¦ÿ  
+<python:S125—"Remove this commented out code.(¤å½£ûÿÿÿÿ
+hpython:S107â"KMethod "__init__" has 9 parameters, which is greater than the 7 authorized.(á»ˆ¯ıÿÿÿÿ
+hpython:S107u"LMethod "__init__" has 10 parameters, which is greater than the 7 authorized.(á»ˆ¯ıÿÿÿÿ
+gpython:S1192¹"ODefine a constant instead of duplicating this literal "examples.index" 3 times.(ÿÅ
+rpython:S3776–"TRefactor this function to reduce its Cognitive Complexity from 43 to the 15 allowed.(„ğıÒøÿÿÿÿ
+epython:S1192»"GDefine a constant instead of duplicating this literal "row.id" 3 times.(ç€’Ëıÿÿÿÿ
