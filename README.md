@@ -124,16 +124,20 @@ run specific features:
 behave demo.feature
 ```
 
-display print (--no-capture) and logs (--no-logcapture):
+display print (--no-capture) and logs (--no-logcapture) use -f to select format (plain/pretty/json/...):
 
 ```shell script
-behave --no-capture --no-logcapture
+behave --no-capture --no-logcapture -f pretty
 ```
 
 For options more see
 
 ```shell
 behave --help
+```
+
+```shell
+behave --format help
 ```
 
 **Steps names and functions in python file are linked by annotations above function**
