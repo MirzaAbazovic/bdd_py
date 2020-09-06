@@ -20,3 +20,7 @@ N
 src/pass-params/steps/steps.py,6/2/626aaf812f4b06c6b029df5481ad95698a94d95b
 >
 pass_params.md,d/9/d9e1bc9899b21e85602168abd19d5781348ca3c1
+R
+"src/pass-params/test_case2.feature,0/c/0c6218973c8a57b524a1a99df862b264c32b869d
+O
+src/pass-params/steps/steps2.py,5/a/5a502041232b01e46ae7c97aebea403b8f496b23
