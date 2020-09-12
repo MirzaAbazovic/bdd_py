@@ -7,4 +7,5 @@ What is behave and how to setup dev. env.
 Make scenarios more flexible by passing parameters from features to steps.
 See how to pass parameters between steps 
 
-  
+## [Package common functions](packaging.md)
+How to create package in python with common code to reuse it. 
