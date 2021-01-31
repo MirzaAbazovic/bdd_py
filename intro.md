@@ -20,7 +20,7 @@ Tools:
 - [VS Code](https://code.visualstudio.com/)
 - [PyCharm](https://www.jetbrains.com/pycharm/)
 
-Test are writen before kode and Gherkin is scripting language used to write tests that business(Stakeholders, PO, PM, EM) can understand.
+Test are writen before code and Gherkin is scripting language used to write tests that business(Stakeholders, PO, PM, EM) can understand.
 
 One file has one feature and multiple scenarios each with multiple steps.
 
